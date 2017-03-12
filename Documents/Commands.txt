@@ -1,0 +1,3 @@
+detect.py -v Vehicles.mp4
+detect.py -v People_Complex.avi
+detect.py -v ./Videos/Walking/img/%04d.jpg
